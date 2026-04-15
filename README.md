@@ -24,5 +24,5 @@ Bu proje, C#  kullanılarak geliştirilmiş bir **Steganografi (Veri Gizleme)** 
 3.  **Gizle:** `Mesajı Gizle` butonuna basarak yeni ve içinde veri saklayan resmi kaydedin. (Kaydettiğiniz yeni resim çıplak gözle orijinalinden farksız görünecektir.)
 4.  **Çıkar:** İçinde mesaj olan nesneyi seçin, belirlediğiniz şifreyi girin ve `Mesajı Çıkar` diyerek gizli veriye ulaşın.
 
-## 📝 Notlar
+##  Notlar
 Bu proje, veri güvenliği ve steganografi (bilgi gizleme be bilimi) konseptlerini C# üzerinde pratik etmek amacıyla geliştirilmiş bir eğitim/ödev projesidir. Temel programlama ve hata yönetimi pratikleri anlaşılır biçimde kodlara yorum satırları ile eklenmiştir.
